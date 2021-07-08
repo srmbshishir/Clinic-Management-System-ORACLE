@@ -1,0 +1,17 @@
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.exe.config
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.exe
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.pdb
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.csprojAssemblyReference.cache
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.Form1.resources
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.Properties.Resources.resources
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.csproj.GenerateResource.cache
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.csproj.CoreCompileInputs.cache
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.csproj.CopyComplete
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.exe
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.pdb
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.Form2.resources
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.Form3.resources
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.Form4.resources
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.AddForm.resources
+C:\Users\oracle\source\repos\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.AddPatient.resources
